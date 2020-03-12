@@ -1,0 +1,4 @@
+main
+	timer1_init
+	timer1_on
+interrupt

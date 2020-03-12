@@ -1,0 +1,13 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4620 -DL -O11111114 -fo4 -N"C:\Users\Sayed\Desktop\Embedded Tests\Timer0\Timer1.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"C:\Users\Sayed\Desktop\Embedded Tests\Timer0\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -IP"C:\Users\Sayed\Desktop\Embedded Tests\Timer0\" "Timer1.c" "timer.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 3947 [bytes], Available ROM: 65536 [bytes]	 
+diagnostics: 0	122	Compilation Started	reg.h
+diagnostics: 8	123	Compiled Successfully	Timer1.c
+diagnostics: 0	122	Compilation Started	reg.h
+diagnostics: 51	123	Compiled Successfully	timer.c
+diagnostics: 0	127	All files Compiled in 93 ms	 
+hint: 0	1144	Used RAM (bytes): 1 (1%)  Free RAM (bytes): 3946 (99%)	Used RAM (bytes): 1 (1%)  Free RAM (bytes): 3946 (99%)
+hint: 0	1144	Used ROM (bytes): 133 (1%)  Free ROM (bytes): 65403 (99%)	Used ROM (bytes): 133 (1%)  Free ROM (bytes): 65403 (99%)
+diagnostics: 0	125	Project Linked Successfully	Timer1.mcppi
+diagnostics: 0	128	Linked in 32 ms	 
+diagnostics: 0	129	Project 'Timer1.mcppi' completed: 141 ms	 
+diagnostics: 0	103	Finished successfully: 20 Feb 2020, 18:06:43	Timer1.mcppi
