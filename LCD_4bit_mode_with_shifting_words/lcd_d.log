@@ -1,0 +1,16 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F4620 -DL -O11111114 -fo4 -N"E:\«·ﬂÊ—”« \Embdade System Deploma\My Works\4bit_mode_with_shifting_words\lcd_d.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\uses\P18\" -SP"E:\«·ﬂÊ—”« \Embdade System Deploma\My Works\4bit_mode_with_shifting_words\" -SP"C:\Users\Sayed\Desktop\G50_2\LCD_Lec\1 - Copy\1\4bit_mode_2222222\" -SP"C:\Users\Sayed\Desktop\G50_2\LCD_Lec\1 - Copy\1\" -SP"C:\Users\Sayed\Desktop\G50_2\LCD_Lec\1 - Copy\" -SP"C:\Users\Sayed\Desktop\G50_2\LCD_Lec\1\" -SP"C:\Users\AHmed.ELGhafar\Desktop\dd\" -IP"C:\Users\AHmed.ELGhafar\Desktop\dd\" -IP"C:\Users\Sayed\Desktop\G50_2\LCD_Lec\1\" -IP"C:\Users\Sayed\Desktop\G50_2\LCD_Lec\1 - Copy\" -IP"C:\Users\Sayed\Desktop\G50_2\LCD_Lec\1 - Copy\1\" -IP"C:\Users\Sayed\Desktop\G50_2\LCD_Lec\1 - Copy\1\4bit_mode_2222222\" -IP"E:\«·ﬂÊ—”« \Embdade System Deploma\My Works\4bit_mode_with_shifting_words\" "lcd_d.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\Sayed\Desktop\G50_2\LCD_Lec\1 - Copy\1\4bit_mode_2222222'	 
+warning: 0	1501	Specified search path does not exist: 'C:\Users\AHmed.ELGhafar\Desktop\dd'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\AHmed.ELGhafar\Desktop\dd'	 
+warning: 0	1502	Specified include path does not exist: 'C:\Users\Sayed\Desktop\G50_2\LCD_Lec\1 - Copy\1\4bit_mode_2222222'	 
+hint: 0	1139	Available RAM: 3947 [bytes], Available ROM: 65536 [bytes]	 
+diagnostics: 0	126	All files Preprocessed in 47 ms	 
+diagnostics: 0	122	Compilation Started	reg.h
+diagnostics: 127	123	Compiled Successfully	lcd_d.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+hint: 0	1144	Used RAM (bytes): 25 (1%)  Free RAM (bytes): 3922 (99%)	Used RAM (bytes): 25 (1%)  Free RAM (bytes): 3922 (99%)
+hint: 0	1144	Used ROM (bytes): 810 (1%)  Free ROM (bytes): 64726 (99%)	Used ROM (bytes): 810 (1%)  Free ROM (bytes): 64726 (99%)
+diagnostics: 0	125	Project Linked Successfully	lcd_d.mcppi
+diagnostics: 0	128	Linked in 15 ms	 
+diagnostics: 0	129	Project 'lcd_d.mcppi' completed: 171 ms	 
+diagnostics: 0	103	Finished successfully: 21 √€”ÿ” 2019, 14:33:40	lcd_d.mcppi
